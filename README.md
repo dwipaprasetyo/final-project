@@ -1,7 +1,7 @@
 # final-project
 Final Project Kelompok 1
 Anggota Kelompok:
-- < nama anggota kelompok > 
+- < Naufal Nuri Zamzami > 
 - < Dwipa Prasetyo priyoko > 
 Nama Mentor: < nama mentor > 
 Nama Dataset: <nama dataset, contoh: 'Car Price Reggression'>
