@@ -1,6 +1,6 @@
 # final-project
 Final Project Kelompok 1
-Anggota Kelompok:
+-  Anggota Kelompok:
 -  Naufal Nuri Zamzami 
 -  Dwipa Prasetyo priyoko  
 -  Nama Mentor: Rauzan Sumara, S.Si, M.Sc 
